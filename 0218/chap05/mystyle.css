@@ -75,8 +75,9 @@ font-family: 'Ballet', cursive;
 
 
 #main_footer{
-    width: 960px; margin: 0 auto;
-    margin-top: 450px;
+    width: 960px; 
+    margin: 0 auto;
+    margin-top: 400px;
     box-sizing: border-box;
     padding: 10px;
     border: 1px solid black;
@@ -99,7 +100,8 @@ font-family: 'Ballet', cursive;
     margin-left:  10px;
 
 }
-.description > strong{
+.description > strong, .description >p
+{
     display:  block;
     width:  120px;
     white-space: nowrap;
